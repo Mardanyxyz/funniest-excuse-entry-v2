@@ -1,0 +1,1 @@
+Build a program that writes one line, the funniest excuse an AI agent gives, to /output/entry.txt for the make.fun bounty u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18. One line only.
